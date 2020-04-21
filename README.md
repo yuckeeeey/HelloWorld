@@ -1,6 +1,11 @@
 # vim
 vim設定の覚書
 ## vim ヤンクでクリップボードにコピー
-  sudo apt install vim-gnome
-~/.vimrcに以下を追加
-  clipboard=unamedplus
+
+'''
+sudo apt install vim-gnome
+'''
+
+'''~/.vimrc
+clipboard=unamedplus
+'''
