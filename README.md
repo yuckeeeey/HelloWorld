@@ -5,7 +5,8 @@ vim設定の覚書
 ```
 sudo apt install vim-gnome
 ```
+vimrcに以下を追加．
 
-```Shell:~/.vimrc
+```Shell
 clipboard=unamedplus
 ```
